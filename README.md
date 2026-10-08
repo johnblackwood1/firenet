@@ -1,2 +1,2 @@
-# firenet
-A website where people can create and be creative.
+# FireNet
+A network for people who want to express themselfs. Inspired from NewGrounds
